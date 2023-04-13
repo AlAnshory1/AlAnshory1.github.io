@@ -2,7 +2,7 @@
 var name = "Aris Budiman";
 var about = "Saya adalah orang yang sedang mencari ilmu.";
 var skill = "Tahfidz, Microsoft ."
-var about = "Born in Bogor, July 03, 2002 I graduated from SMK PGRI 2 Cibinong in 2020. I am a person who is very enthusiastic about all things technology and software. I am a creative person and like to find alternative solutions to various problems. I am also open to all possible solutions. Creativity really helps me to be a good leader because I can anticipate various problems.";
+var about = "Born in Kuningan, Oktober 19, 2000 I graduated from SMK PGRI 2 Cibinong in 2020. I am a person who is very enthusiastic about all things technology and software. I am a creative person and like to find alternative solutions to various problems. I am also open to all possible solutions. Creativity really helps me to be a good leader because I can anticipate various problems.";
 skills = [
   64,
   99,
